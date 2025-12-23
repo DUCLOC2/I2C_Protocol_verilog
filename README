@@ -7,5 +7,5 @@ The communication is performed over two lines:
 - **SCL**: Serial Clock (driven by the master)
 - **SDA**: Serial Data (open-drain, bidirectional)
 
-![I2C START STOP](docs/message_format.png)
+![I2C START STOP](https://github.com/DUCLOC2/I2C/blob/main/docs/message_format.png)
 ![I2C Message](docs/operation.png)
