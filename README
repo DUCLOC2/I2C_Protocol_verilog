@@ -1,0 +1,8 @@
+## I2C Write Protocol Implementation
+
+This project implements the **I2C write protocol**, where the **master transmits data**
+and the **slave receives data**, in compliance with the standard I2C specification.
+
+The communication is performed over two lines:
+- **SCL**: Serial Clock (driven by the master)
+- **SDA**: Serial Data (open-drain, bidirectional)
